@@ -3,7 +3,7 @@
 
 const mainColor = '#232a2d';
 const backgroundColor = '#232a2d';
-const foregroundColor = '#eff0eb';
+const foregroundColor = '#dcddd9';
 const borderColor = '#4c4c4c';
 const cursorColor = '#97979b';
 const selectionColor = 'rgba(151, 176, 155, 0.3)';
@@ -17,7 +17,7 @@ const magenta = '#ff2d55';
 const cyan = '#5ac8fa';
 const white = '#bfbfbf';
 
-const lightBlack = '#b9b9b9';
+const lightBlack = '#8d8c8c';
 
 exports.decorateConfig = (config) =>
   Object.assign({}, config, {
