@@ -4,7 +4,7 @@
 
 # Description
 
-- Hyper dark theme for the [Hyper](https://hyper.is) editor.
+- Hyper dark theme for the [Hyper](https://hyper.is) terminal.
 
 ## Install
 
