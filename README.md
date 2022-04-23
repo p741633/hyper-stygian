@@ -4,7 +4,7 @@
 
 # Description
 
-- Hyper dark theme for the [Hyper](https://hyper.is) terminal.
+- Dark theme for the [Hyper](https://hyper.is) terminal.
 
 ## Install
 
